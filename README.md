@@ -1,2 +1,2 @@
-# NLW2024ExpertPython
-Essa aplicação foi desenvolvida durante o NLW Experts da Rocketseat.
+# Simple barcode maker API
+This project create a barcode to our products.
